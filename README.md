@@ -24,7 +24,7 @@ Framework.
 - Extreme values
 
 ## To Do List
-- []
+- [x] ArrayList
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
