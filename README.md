@@ -26,7 +26,7 @@ Framework.
 ## To Do List
 - [x] ArrayList
 - [x] HashSet
-- [ ] HashMap
+- [x] HashMap
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
