@@ -15,12 +15,26 @@ class MyCollections {
     workingDaysSet.add("Wednesday");
     workingDaysSet.add("Thursday");
     workingDaysSet.add("Friday");
+    workingDaysSet.add("Saturday");
 
     // Iterate over the array list
     Iterator itor = workingDaysSet.iterator();
-    System.out.println("\nWorkday Set");
+    System.out.println("\nWorkday Set Size : " + workingDaysSet.size() );
     while( itor.hasNext() ) {
       System.out.println( itor.next() );
+    }
+
+    // Check item is in hashset or not
+    if(workingDaysSet.contains("Saturday")==true) {
+      System.out.println("Saturday is in workingDaysSet" );
+    } else {
+      System.out.println("Saturday is not in workingDaysSet" );
+    }
+
+    // Check item is in hashset or not
+    if(workingDaysSet.contains("Saturday")==true) {
+      System.out.println("Removing Saturday from workingDaysSet" );
+      workingDaysSet.remove("Saturday");
     }
 
   }
