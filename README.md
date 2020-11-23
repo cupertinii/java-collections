@@ -28,6 +28,7 @@ Framework.
 - [x] LinkedList
 - [x] HashSet
 - [x] HashMap
+- [x] Queue
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
