@@ -25,5 +25,11 @@ class MyCollections {
     // In a queue, elements are removed from the start
     String item = workingDaysInQueue.remove();
     System.out.println("Removed item {" + item + "} from the queue");
+
+    // Accessing elements in a queue
+    Iterator itor = workingDaysInQueue.iterator();
+    while( itor.hasNext() ){
+      System.out.println("Elmenet = " + itor.next() );  
+    }
   }
 }
