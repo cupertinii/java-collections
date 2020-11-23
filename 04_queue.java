@@ -18,5 +18,12 @@ class MyCollections {
 
     // Size of the map
     System.out.println("\nWorkday Map Size : " + workingDaysInQueue.size() );
+
+    // In a queue, elements are added at the end
+    workingDaysInQueue.add("Saturday");
+
+    // In a queue, elements are removed from the start
+    String item = workingDaysInQueue.remove();
+    System.out.println("Removed item {" + item + "} from the queue");
   }
 }
