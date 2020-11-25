@@ -30,13 +30,13 @@ class MyCollections {
     System.out.println("\nIterator : ");
     Iterator itor = workingDaysInQueue.iterator();
     while( itor.hasNext() ){
-      System.out.println("Elmenet = " + itor.next() );
+      System.out.println("Element = " + itor.next() );
     }
 
     // Another way to access elements in a queue
     System.out.println("\nforEach : ");
     workingDaysInQueue.forEach( element -> {
-      System.out.println("Elmenet = " + element );
+      System.out.println("Element = " + element );
     });
   }
 }
