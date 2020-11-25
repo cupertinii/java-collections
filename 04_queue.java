@@ -27,9 +27,16 @@ class MyCollections {
     System.out.println("Removed item {" + item + "} from the queue");
 
     // Accessing elements in a queue
+    System.out.println("\nIterator : ");
     Iterator itor = workingDaysInQueue.iterator();
     while( itor.hasNext() ){
-      System.out.println("Elmenet = " + itor.next() );  
+      System.out.println("Elmenet = " + itor.next() );
     }
+
+    // Another way to access elements in a queue
+    System.out.println("\nforEach : ");
+    workingDaysInQueue.forEach( element -> {
+      System.out.println("Elmenet = " + element );
+    });
   }
 }
