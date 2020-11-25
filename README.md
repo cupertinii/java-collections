@@ -29,6 +29,7 @@ Framework.
 - [x] HashSet
 - [x] HashMap
 - [x] Queue
+- [x] Stack
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
