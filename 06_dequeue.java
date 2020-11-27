@@ -1,5 +1,9 @@
 import java.util.*;
 
+// double ended queue
+// Pronounced as "Deck"
+// Allow insertion and removal from both the ends
+// 
 class MyCollections {
   public static void main(String args[]) {
     example_queue();
