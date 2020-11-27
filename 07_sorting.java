@@ -35,5 +35,15 @@ class MyCollections {
       System.out.println(" - " + itor.next() );
     }
 
+    // SORTING in Reverse Order
+    Collections.sort(workingDays, Collections.reverseOrder());
+
+    // Iterate over the array list
+    itor = workingDays.iterator();
+    System.out.println("\nSorted (Reverse) Workdays");
+    while( itor.hasNext() ) {
+      System.out.println(" - " + itor.next() );
+    }
+
   }
 }
