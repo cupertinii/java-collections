@@ -31,6 +31,7 @@ Framework.
 - [x] Queue
 - [x] Stack
 - [x] DeQueue
+- [x] Sorting and Reverse sorting
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
