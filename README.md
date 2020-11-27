@@ -30,6 +30,7 @@ Framework.
 - [x] HashMap
 - [x] Queue
 - [x] Stack
+- [x] DeQueue
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
