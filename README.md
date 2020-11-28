@@ -28,10 +28,11 @@ Framework.
 - [x] LinkedList
 - [x] HashSet
 - [x] HashMap
+- [x] HashTable
 - [x] Queue
 - [x] Stack
 - [x] DeQueue
-- [x] Sorting and Reverse sorting
+- [x] Sorting and Reverse sorting using Collections
 
 ## References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
