@@ -27,16 +27,16 @@ Framework.
 - Iterable Interface
   - Collection Interface
   - List Interface
-    - ArrayList Class
-    - LinkedList Class
+    - ArrayList Class [ :heavy_check_mark: ]
+    - LinkedList Class [ :heavy_check_mark: ]
     - Vector Class
-      - Stack Class
-  - Queue Interface
-    - PriorityQueue Class
-    - Dequeue Interface
+      - Stack Class [ :heavy_check_mark: ]
+  - Queue Interface [ :heavy_check_mark: ]
+    - PriorityQueue Class [ :heavy_check_mark: ]
+    - Dequeue Interface [ :heavy_check_mark: ]
       - ArrayQueue Class
   - Set Interface
-    - HashSet Class
+    - HashSet Class [ :heavy_check_mark: ]
     - LinkedHashSet Class
     - SortedSet Class
       - TreeSet Class
