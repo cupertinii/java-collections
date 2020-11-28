@@ -26,20 +26,20 @@ Framework.
 ## Structure
 - Iterable Interface
   - Collection Interface
---- List Interface
----- ArrayList Class
----- LinkedList Class
----- Vector Class
------ Stack Class
---- Queue Interface
----- PriorityQueue Class
----- Dequeue Interface
------ ArrayQueue Class
---- Set Interface
----- HashSet Class
----- LinkedHashSet Class
----- SortedSet Class
------ TreeSet Class
+  - List Interface
+    - ArrayList Class
+    - LinkedList Class
+    - Vector Class
+      - Stack Class
+  - Queue Interface
+    - PriorityQueue Class
+    - Dequeue Interface
+      - ArrayQueue Class
+  - Set Interface
+    - HashSet Class
+    - LinkedHashSet Class
+    - SortedSet Class
+      - TreeSet Class
 
 # To Do List
 - [x] ArrayList
