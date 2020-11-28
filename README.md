@@ -25,7 +25,7 @@ Framework.
 
 ## Structure
 - Iterable Interface
--- Collection Interface
+ - Collection Interface
 --- List Interface
 ---- ArrayList Class
 ---- LinkedList Class
