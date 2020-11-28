@@ -41,6 +41,12 @@ Framework.
     - SortedSet Class
       - TreeSet Class
 
+- Map Interface
+  - HashMap Class [ :heavy_check_mark: ]
+  - TreeMap Class
+  - LinkedHashMap Class
+  - SortedMap Class
+
 # To Do List
 - [x] ArrayList
 - [x] LinkedList
