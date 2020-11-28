@@ -15,7 +15,7 @@ Framework.
 - Queue and Dequeue <= collection for holding elements before processing
 - Map (and SortedMap) <= maps keys to values
 
-# Algorithms
+## Algorithms
 - Sorting
 - Shuffling
 - Data Manipulation
@@ -23,7 +23,25 @@ Framework.
 - Composition
 - Extreme values
 
-## To Do List
+## Structure
+- Iterable Interface
+-- Collection Interface
+--- List Interface
+---- ArrayList Class
+---- LinkedList Class
+---- Vector Class
+----- Stack Class
+--- Queue Interface
+---- PriorityQueue Class
+---- Dequeue Interface
+----- ArrayQueue Class
+--- Set Interface
+---- HashSet Class
+---- LinkedHashSet Class
+---- SortedSet Class
+----- TreeSet Class
+
+# To Do List
 - [x] ArrayList
 - [x] LinkedList
 - [x] HashSet
@@ -34,5 +52,5 @@ Framework.
 - [x] DeQueue
 - [x] Sorting and Reverse sorting using Collections
 
-## References
+# References
 - https://docs.oracle.com/javase/tutorial/collections/index.html
